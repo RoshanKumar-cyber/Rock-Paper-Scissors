@@ -25,6 +25,19 @@ This project lets users play the classic *Rock–Paper–Scissors* game against 
 ---
 
 ## 📂 Project Structure
+RockPaperScissors/
+│
+├── index.html          # Main HTML file (UI layout)
+├── style.css           # CSS file (styling and design)
+├── script.js           # JavaScript file (game logic)
+│
+├── images/             # Folder for images used in the game
+│   ├── Rock.png
+│   ├── Paper.png
+│   └── Scissors.png
+│
+└── README.md           # Project documentation file (optional but recommended)
+
 
 
 
