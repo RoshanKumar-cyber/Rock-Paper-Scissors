@@ -61,6 +61,6 @@ RockPaperScissors/
 
 ---
 
-![Game Preview](Rock Paper Scissors/images/preview.png)
+![Game Preview](images/preview.png)
 
 
